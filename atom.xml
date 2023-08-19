@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://big5s.github.io</id>
+    <title>big5s的博客</title>
+    <updated>2023-08-19T10:22:55.078Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://big5s.github.io"/>
+    <link rel="self" href="https://big5s.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://big5s.github.io/images/avatar.png</logo>
+    <icon>https://big5s.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, big5s的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[测试]]></title>
+        <id>https://big5s.github.io/post/ce-shi/</id>
+        <link href="https://big5s.github.io/post/ce-shi/">
+        </link>
+        <updated>2023-08-17T12:53:13.000Z</updated>
+        <content type="html"><![CDATA[<p>测试用的</p>
+]]></content>
+    </entry>
+</feed>
